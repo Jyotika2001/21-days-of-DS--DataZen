@@ -10,7 +10,7 @@ Day 3: GRIP Foundation beginners task
 
 Day 4: Completed notes on Kaggle Feature Engineering course
 
-Day 3: GRIP Foundation intermediate task
+Day 5: GRIP Foundation intermediate task
 
-Day 3: GRIP Foundation intermediate task
+Day 6: GRIP Foundation intermediate task
 
