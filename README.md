@@ -14,3 +14,8 @@ Day 5: GRIP Foundation intermediate task
 
 Day 6: GRIP Foundation intermediate task
 
+Day 7: GRIP Foundation intermediate task
+
+Day 8: Principal Component Analysis practise
+
+Day 9: Principal Component Analysis practise
