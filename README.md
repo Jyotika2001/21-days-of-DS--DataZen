@@ -19,3 +19,12 @@ Day 7: GRIP Foundation intermediate task
 Day 8: Principal Component Analysis practise
 
 Day 9: Principal Component Analysis practise
+
+Day 10: GRIP Foundation intermediate task
+
+Day 11: GRIP Foundation intermediate task
+
+Day 12: GRIP Foundation intermediate task 
+Forgot to update over the weekend
+
+Day 13: Ken Lee project
