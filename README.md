@@ -28,3 +28,19 @@ Day 12: GRIP Foundation intermediate task
 Forgot to update over the weekend
 
 Day 13: Ken Lee project
+
+Day 14: Data set setup
+
+Day 15: Data Cleaning
+
+Day 16: EDA pt 1
+
+Day 17: EDA pt 2
+
+Day 18: Model building
+
+Day 19: Summarizing concepts
+
+Day 20: Deployment
+
+
