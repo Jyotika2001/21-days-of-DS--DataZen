@@ -43,4 +43,6 @@ Day 19: Summarizing concepts
 
 Day 20: Deployment
 
+Day 21: Deployment
+
 
